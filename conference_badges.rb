@@ -12,6 +12,7 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms(names)
+  base = "Hello, #{name}! You'll be assigned to room #{room}"
   count = 0
   for 
 end
