@@ -16,8 +16,4 @@ def assign_rooms(names)
   names.each_with_index do |item, index|
     rooms << "Hello, #{name}! You'll be assigned to room #{index + 1}"
   end
-  
-  base = "Hello, #{name}! You'll be assigned to room #{room}"
-  count = 0
-  for 
 end
