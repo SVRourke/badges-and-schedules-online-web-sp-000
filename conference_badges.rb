@@ -19,4 +19,3 @@ def assign_rooms(names)
   return rooms
 end
 
-assign_rooms(['sam', 'rain', 'maya'])
