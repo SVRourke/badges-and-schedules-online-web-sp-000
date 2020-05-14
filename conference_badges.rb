@@ -18,3 +18,5 @@ def assign_rooms(names)
   end
   return rooms
 end
+
+assign_rooms(['sam', 'rain', 'maya'])
